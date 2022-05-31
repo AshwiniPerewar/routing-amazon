@@ -1,0 +1,29 @@
+{
+   "products":[ 
+    {
+        "id" : 1,
+        "image":"https://m.media-amazon.com/images/I/61NoYt2pvpS._SX679_.jpg",
+        "name" : "SmartPhone",
+        "price": 30
+       
+    },
+    {
+        "image":"https://m.media-amazon.com/images/I/81nC4u9eYfL._UY445_.jpg",
+        "name" : "Watch",
+        "price" : 20,
+        "id" : 2
+    },
+    {
+        "image":"https://5.imimg.com/data5/YJ/BO/MY-10973479/mens-designer-casual-shirt-500x500.jpg",
+        "name" : "Shirt",
+        "price" : 50,
+        "id" : 3
+    },
+    {
+        "image":"https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg",
+        "name" : "Pants",
+        "price" : 100,
+        "id" : 4
+    }
+]
+}
