@@ -23,7 +23,7 @@ const Products = () => {
             {products.map((pr)=>
             (
                 <div key={pr.id}>
-                 <Flex direction="row"><Link to={`/products/${pr.id}`} ><Flex direction="column" gap={20}><Image src={`${pr.image}`} width="300px" height="300px"/>{pr.name}  ${pr.price}</Flex></Link></Flex>
+                 <Flex direction="row"><Flex direction="column" gap={20}><Image src={`${pr.image}`} width="300px" height="300px"/>{pr.name}  |  ${pr.price}   <Link to={`/products/${pr.id}`} > more details</Link></Flex></Flex>
                 </div>
                 
             ))}

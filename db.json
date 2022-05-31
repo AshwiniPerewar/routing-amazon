@@ -4,26 +4,30 @@
         "id" : 1,
         "image":"https://m.media-amazon.com/images/I/61NoYt2pvpS._SX679_.jpg",
         "name" : "SmartPhone",
-        "price": 30
+        "price": 30,
+        "details":"OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
        
     },
     {
         "image":"https://m.media-amazon.com/images/I/81nC4u9eYfL._UY445_.jpg",
         "name" : "Watch",
         "price" : 20,
-        "id" : 2
+        "id" : 2,
+        "details":"ASGARD Multi Functional Sports Digital Multicolor Dial Men's Watch"
     },
     {
         "image":"https://5.imimg.com/data5/YJ/BO/MY-10973479/mens-designer-casual-shirt-500x500.jpg",
         "name" : "Shirt",
         "price" : 50,
-        "id" : 3
+        "id" : 3,
+        "details":"Ben Martin Men's Classic Collar Slim Fit Cotton Casual Full Sleeve Shirt"
     },
     {
         "image":"https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg",
         "name" : "Pants",
         "price" : 100,
-        "id" : 4
+        "id" : 4,
+        "details":"Arrow Sports Men's Machine Wash Pants"
     }
 ]
 }

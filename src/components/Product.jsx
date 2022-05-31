@@ -21,7 +21,8 @@ const Product = () => {
     <div>
     <Image src={`${product.image}`} height="400px" width="500px" marginTop="30px"/>
      <Flex direction="column">Product ID:{id}
-    <div>{product.name}  ${product.price}</div>
+    <div>{product.name}  |  ${product.price}  </div>
+    <div>{product.details}</div>
     </Flex> </div>
   )
 }
